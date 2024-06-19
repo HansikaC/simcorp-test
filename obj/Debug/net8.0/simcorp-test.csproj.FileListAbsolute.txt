@@ -1,0 +1,14 @@
+/Users/hansikayedlapalli/Desktop/MyProjects/simcorp-test/obj/Debug/net8.0/simcorp-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hansikayedlapalli/Desktop/MyProjects/simcorp-test/obj/Debug/net8.0/simcorp-test.AssemblyInfoInputs.cache
+/Users/hansikayedlapalli/Desktop/MyProjects/simcorp-test/obj/Debug/net8.0/simcorp-test.AssemblyInfo.cs
+/Users/hansikayedlapalli/Desktop/MyProjects/simcorp-test/obj/Debug/net8.0/simcorp-test.csproj.CoreCompileInputs.cache
+/Users/hansikayedlapalli/Desktop/MyProjects/simcorp-test/bin/Debug/net8.0/simcorp-test
+/Users/hansikayedlapalli/Desktop/MyProjects/simcorp-test/bin/Debug/net8.0/simcorp-test.deps.json
+/Users/hansikayedlapalli/Desktop/MyProjects/simcorp-test/bin/Debug/net8.0/simcorp-test.runtimeconfig.json
+/Users/hansikayedlapalli/Desktop/MyProjects/simcorp-test/bin/Debug/net8.0/simcorp-test.dll
+/Users/hansikayedlapalli/Desktop/MyProjects/simcorp-test/bin/Debug/net8.0/simcorp-test.pdb
+/Users/hansikayedlapalli/Desktop/MyProjects/simcorp-test/obj/Debug/net8.0/simcorp-test.dll
+/Users/hansikayedlapalli/Desktop/MyProjects/simcorp-test/obj/Debug/net8.0/refint/simcorp-test.dll
+/Users/hansikayedlapalli/Desktop/MyProjects/simcorp-test/obj/Debug/net8.0/simcorp-test.pdb
+/Users/hansikayedlapalli/Desktop/MyProjects/simcorp-test/obj/Debug/net8.0/simcorp-test.genruntimeconfig.cache
+/Users/hansikayedlapalli/Desktop/MyProjects/simcorp-test/obj/Debug/net8.0/ref/simcorp-test.dll
